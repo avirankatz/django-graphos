@@ -117,7 +117,7 @@ except ImportError:
     description = ''
 
 setup(
-    name="django-graphos",
+    name="graphos",
     version=get_version(),
     description="Django app to provide a JS agnostic way to work with charts.",
     #long_description=read("README.md"),
